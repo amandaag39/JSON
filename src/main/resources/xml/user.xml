@@ -1,0 +1,19 @@
+<users>
+
+    <user>
+        <id>1</id>
+        <username>johndoe</username>
+        <email>johndoe@example.com</email>
+        <date_of_birth>1990-05-15</date_of_birth>
+        <registration_date>2023-06-12T12:12</registration_date>
+    </user>
+
+    <user>
+        <id>2</id>
+        <username>janesmith</username>
+        <email>janesmith@example.com</email>
+        <date_of_birth>1982-05-15</date_of_birth>
+        <registration_date>2023-06-10T12:22</registration_date>
+    </user>
+
+</users>

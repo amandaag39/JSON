@@ -1,0 +1,29 @@
+[ {
+  "paymentId" : 1,
+  "amount" : 100000.0,
+  "date" : "2023-06-13",
+  "customer" : {
+    "name" : "John Doe",
+    "email" : "johndoe@example.com"
+  },
+  "billingAddress" : {
+    "street" : "123 Main St",
+    "city" : "New York",
+    "state" : "NY",
+    "zipCode" : "12345"
+  }
+}, {
+  "paymentId" : 2,
+  "amount" : 100000.0,
+  "date" : "2023-06-10",
+  "customer" : {
+    "name" : "Jane Doe",
+    "email" : "janedoe@example.com"
+  },
+  "billingAddress" : {
+    "street" : "123 Main St",
+    "city" : "New York",
+    "state" : "NY",
+    "zipCode" : "12345"
+  }
+} ]

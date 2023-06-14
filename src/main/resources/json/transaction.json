@@ -1,0 +1,13 @@
+[ {
+  "transactionId" : 1,
+  "accountId" : 1,
+  "amount" : 1000.0,
+  "date" : "2023-06-13T13:01",
+  "currencyId" : 1
+}, {
+  "transactionId" : 2,
+  "accountId" : 1,
+  "amount" : 1000.0,
+  "date" : "2023-06-13T13:01",
+  "currencyId" : 1
+} ]

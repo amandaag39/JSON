@@ -1,0 +1,13 @@
+[ {
+  "accountId" : 1,
+  "id" : 1,
+  "accountNumber" : "123456789",
+  "balance" : 1000.0,
+  "dateCreated" : "2023-06-13T13:01"
+}, {
+  "accountId" : 2,
+  "id" : 2,
+  "accountNumber" : "987654321",
+  "balance" : 500.0,
+  "dateCreated" : "2023-02-12T21:02"
+} ]

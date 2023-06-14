@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "username" : "johnsmith",
+  "email" : "johnnyboy123@example.com",
+  "dateOfBirth" : "1989-01-01",
+  "registrationDate" : "2023-06-12T12:32"
+}, {
+  "id" : 2,
+  "username" : "arminarlert",
+  "email" : "arminarmout@example.com",
+  "dateOfBirth" : "2007-01-01",
+  "registrationDate" : "2022-06-12T12:22"
+} ]

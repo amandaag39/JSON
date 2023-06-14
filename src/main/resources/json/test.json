@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "username" : "johnsmith",
+  "email" : "johnnyboy123@example.com",
+  "dateOfBirth": "1990-05-15",
+  "registrationDate": "2023-06-13T21:02"
+},
+  {
+    "id" : 2,
+    "username" : "arminarlert",
+    "email" : "arminarmout@example.com",
+    "dateOfBirth": "1995-11-03",
+    "registrationDate": "2023-06-13T12:02"
+  }
+]
